@@ -2,16 +2,32 @@
     {
         "name": "RR",
         "age": 35,
-        "city": "San Francisco"
+        "city": "San Francisco",
+        "sports team": "49ers"
     },
     {
         "name": "Ann Ispen",
         "age": 30,
-        "city": "Los Angeles"
+        "city": "Los Angeles",
+        "sports team": "Rams"
     },
     {
         "name": "Tom Hanks",
         "age": 22,
-        "city": "Chicago"
+        "city": "Chicago",
+        "sports team": "Bears"
+    }
+    {
+        "name": "LG",
+        "age": "21",
+        "city": "Denver",
+        "sports team": "Broncos"
+    }
+
+    {
+        "name": "Tyler",
+        "age": "22",
+        "city": "New Orleans",
+        "sports team": "Saints"
     }
 ]
