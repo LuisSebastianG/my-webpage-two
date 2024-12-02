@@ -16,14 +16,13 @@
         "age": 22,
         "city": "Chicago",
         "sports team": "Bears"
-    }
+    },
     {
         "name": "LG",
         "age": "21",
         "city": "Denver",
         "sports team": "Broncos"
-    }
-
+    },
     {
         "name": "Tyler",
         "age": "22",
